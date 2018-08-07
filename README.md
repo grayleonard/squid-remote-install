@@ -1,0 +1,1 @@
+# squid-remote-install
